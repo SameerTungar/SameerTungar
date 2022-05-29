@@ -47,4 +47,4 @@
  
  ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameertungar&show_icons=true&theme=radical)
  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameertungar&show_icons=true&locale=en&layout=compact" alt="sameertungar" /></p> 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameertungar&show_icons=true&locale=en&layout=compact&theme=radical" alt="sameertungar" /></p> 
