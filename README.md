@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/SameerTungar/SameerTungar/blob/main/BG_image.jpg)]
+![MasterHead](https://github.com/SameerTungar/SameerTungar/blob/main/BG_image.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Sameer Tungar</h1>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **tech**
 
-- 💬 Ask me about **java, SQL,**
+- 💬 Ask me about **java, SQL, Node js, Javascript**
 
 - 📫 How to reach me **tungarsameer@gmail.com**
 
