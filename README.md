@@ -1,4 +1,4 @@
-[![MasterHead]()]
+[![MasterHead](https://github.com/SameerTungar/SameerTungar/blob/main/BG_image.jpg)]
 
 
 <h1 align="center">Hi 👋, I'm Sameer Tungar</h1>
